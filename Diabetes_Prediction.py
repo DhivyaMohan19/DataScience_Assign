@@ -2,8 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
-import plotly.express as px
-from PIL import Image
 
 # Page configuration
 st.set_page_config(layout="wide")
