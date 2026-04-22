@@ -9,3 +9,4 @@ pip install streamlit ---> to install streamlit
 command:    python -m streamlit run Diabetes_Prediction.py 
 
 Note :- provide the complete python file path to launch the app.
+Use link to access the Streamlit App - https://diabetesprediction-app19.streamlit.app/
